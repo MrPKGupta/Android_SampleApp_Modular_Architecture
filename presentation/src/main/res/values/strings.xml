@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="title_users">Users</string>
+    <string name="title_user_details">User Details</string>
+    <string name="title_name">Name: %s</string>
+    <string name="title_email">Email: %s</string>
+    <string name="initial_message">No content yet</string>
+</resources>
