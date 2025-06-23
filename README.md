@@ -33,5 +33,6 @@ A sample Android application built using **Kotlin**, **Jetpack Compose**, **Hilt
 - Add UI tests using espresso
 - Add offline caching using Room
 - Add localization support
+- Add feature-based modularization (e.g., :feature-home, :feature-profile)
 
 
